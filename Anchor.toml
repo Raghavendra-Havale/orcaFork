@@ -1,11 +1,11 @@
 [programs.localnet]
-whirlpool = "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+whirlpool = "FUA9Uv5teZe9MoKE9m5bbovx217zDuoc6zvHm25d2iKT"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]

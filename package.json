@@ -7,5 +7,9 @@
   ],
   "scripts": {
     "idl": "anchor build -i $INIT_CWD/sdk/src/artifacts -t $INIT_CWD/sdk/src/artifacts"
+  },
+  "dependencies": {
+    "@solana/wallet-adapter-react": "^0.15.35",
+    "@solana/web3.js": "^1.91.8"
   }
 }
